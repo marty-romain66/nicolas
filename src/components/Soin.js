@@ -40,7 +40,7 @@ const Soin = () => {
             />
           </div>
           <p>Soins conventionnés à Argeles-sur-mer</p>
-          <p>
+          <p className=" pb-2">
             Les soins infirmiers sont conventionnés et pris en charge par
             l'Assurance Maladie. Nos infirmiers libéraux acceptent le tiers
             payant, la CMU et l'AME. test
@@ -57,7 +57,7 @@ const Soin = () => {
             />
           </div>
           <p>Soins conventionnés à Argeles-sur-mer</p>
-          <p>
+          <p className=" pb-2">
             Les soins infirmiers sont conventionnés et pris en charge par
             l'Assurance Maladie. Nos infirmiers libéraux acceptent le tiers
             payant, la CMU et l'AME.
