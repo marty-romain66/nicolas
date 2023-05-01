@@ -28,10 +28,10 @@ const Soin = () => {
       <div className=" md:h-1/4 h-12 flex justify-center items-center text-2xl md:text-6xl">
         <h2>Nos Préstations</h2>
       </div>
-      <div className="h-full flex flex-col gap-12 md:flex-row md:items-center md:gap-0 md:justify-around">
+      <div className=" flex flex-col gap-12 md:flex-row md:items-center md:gap-0 md:justify-around">
         <div
           id="reveal"
-          className="md:w-2/5 p-8 md:h-2/3 h-2/5 border-red-50 rounded-lg  flex items-center flex-col gap-2 shadow-2xl shadow-red-500/50 md:text-3xl md:text-center"
+          className="md:w-2/5 p-8 md:h-2/3  border-red-50 rounded-lg  flex items-center flex-col gap-2 shadow-2xl shadow-red-500/50 md:text-3xl md:text-center"
         >
           <div>
             <img
@@ -48,7 +48,7 @@ const Soin = () => {
         </div>
         <div
           id="reveal"
-          className="md:w-2/5 md:h-2/3  p-8 h-2/5 border-red-50 rounded-lg  flex items-center flex-col gap-2 shadow-2xl shadow-red-500/50 md:text-3xl md:text-center"
+          className="md:w-2/5 md:h-2/3  p-8  border-red-50 rounded-lg  flex items-center flex-col gap-2 shadow-2xl shadow-red-500/50 md:text-3xl md:text-center"
         >
           <div>
             <img
