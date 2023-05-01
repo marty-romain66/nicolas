@@ -1,0 +1,10 @@
+node_modules/
+.next/
+
+# Ignore les fichiers de sauvegarde
+*~
+*.swp
+
+# Ignore les fichiers de configuration
+.env
+config.js
