@@ -43,7 +43,7 @@ const Soin = () => {
           <p>
             Les soins infirmiers sont conventionnés et pris en charge par
             l'Assurance Maladie. Nos infirmiers libéraux acceptent le tiers
-            payant, la CMU et l'AME.
+            payant, la CMU et l'AME. test
           </p>
         </div>
         <div
