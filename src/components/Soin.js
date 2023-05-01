@@ -39,7 +39,7 @@ const Soin = () => {
               alt=""
             />
           </div>
-          <p>Soins conventionnés à Toulouse</p>
+          <p>Soins conventionnés à Argeles-sur-mer</p>
           <p>
             Les soins infirmiers sont conventionnés et pris en charge par
             l'Assurance Maladie. Nos infirmiers libéraux acceptent le tiers
@@ -56,7 +56,7 @@ const Soin = () => {
               alt=""
             />
           </div>
-          <p>Soins conventionnés à Toulouse</p>
+          <p>Soins conventionnés à Argeles-sur-mer</p>
           <p>
             Les soins infirmiers sont conventionnés et pris en charge par
             l'Assurance Maladie. Nos infirmiers libéraux acceptent le tiers
